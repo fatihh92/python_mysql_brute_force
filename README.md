@@ -3,20 +3,20 @@
 <code>TARGET</code><br/>
 <code>[+] 127.0.0.1</code><br/>
 <code>
-TARGET
-[IP]:127.0.0.1
-[-]admin:admin login failed
-[-]admin:root login failed
-[-]admin:qwerty login failed
-[-]admin:123456 login failed
-[-]admin:password login failed
-[-]root:admin login failed
-[-]root:root login failed
-[-]root:qwerty login failed
-[-]root:123456 login failed
-[-]root: login failed
-*** CREDENTIALS ***
-[+]admin:
-[+]root:password
-*******************
+TARGET<br/>
+[IP]:127.0.0.1<br/>
+[-]admin:admin login failed<br/>
+[-]admin:root login failed<br/>
+[-]admin:qwerty login failed<br/>
+[-]admin:123456 login failed<br/>
+[-]admin:password login failed<br/>
+[-]root:admin login failed<br/>
+[-]root:root login failed<br/>
+[-]root:qwerty login failed<br/>
+[-]root:123456 login failed<br/>
+[-]root: login failed<br/>
+*** CREDENTIALS ***<br/>
+[+]admin:  <br/>
+[+]root:password<br/>
+*******************<br/>
 <code>
