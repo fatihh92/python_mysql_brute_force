@@ -1,8 +1,4 @@
 # USAGE
 
-<code>
-TARGET
-</code>
-<code>
-[+] 127.0.0.1
-</code>
+<code>TARGET</code><br/>
+<code>[+] 127.0.0.1</code>
